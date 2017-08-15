@@ -1,0 +1,13 @@
+name: PlayerHider
+version: 1.0
+main: ro.imerkal.PlayerHider.Main
+author: ImErkal_
+
+commands:
+    phide:
+        description: Ascunde/arata jucatori
+    
+permissions:
+    phide.use:
+        description: Permission commands
+        default: op
